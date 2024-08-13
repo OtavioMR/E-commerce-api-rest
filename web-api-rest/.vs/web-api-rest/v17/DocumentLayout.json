@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\",
+  "WorkspaceRootPath": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|c:\\users\\aluno15\\desktop\\e-commerce-api-rest\\web-api-rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|c:\\users\\otavio\\desktop\\e-commerce-api-rest\\web-api-rest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|c:\\users\\otavio\\desktop\\e-commerce-api-rest\\web-api-rest\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|solutionrelative:models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|c:\\users\\otavio\\desktop\\e-commerce-api-rest\\web-api-rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T17:54:50.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Models\\ProductModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T17:41:17.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\Program.cs",
+              "ToolTip": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T13:38:48.576Z",
               "EditorCaption": ""
