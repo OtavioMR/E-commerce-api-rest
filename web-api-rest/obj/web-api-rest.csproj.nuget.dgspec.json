@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\web-api-rest.csproj": {}
+    "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\web-api-rest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\web-api-rest.csproj": {
+    "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\web-api-rest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\web-api-rest.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\web-api-rest.csproj",
         "projectName": "web-api-rest",
-        "projectPath": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\web-api-rest.csproj",
-        "packagesPath": "C:\\Users\\Otavio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\obj\\",
+        "projectPath": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\web-api-rest.csproj",
+        "packagesPath": "C:\\Users\\Aluno15\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Otavio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aluno15\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,6 +46,26 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"

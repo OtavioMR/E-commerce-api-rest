@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\",
+  "WorkspaceRootPath": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|c:\\users\\otavio\\desktop\\e-commerce-api-rest\\web-api-rest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|c:\\users\\aluno15\\desktop\\e-commerce-api-rest\\web-api-rest\\data\\ecommercesystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|solutionrelative:data\\ecommercesystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|c:\\users\\aluno15\\desktop\\e-commerce-api-rest\\web-api-rest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|c:\\users\\otavio\\desktop\\e-commerce-api-rest\\web-api-rest\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|c:\\users\\aluno15\\desktop\\e-commerce-api-rest\\web-api-rest\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|solutionrelative:models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|c:\\users\\otavio\\desktop\\e-commerce-api-rest\\web-api-rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|c:\\users\\aluno15\\desktop\\e-commerce-api-rest\\web-api-rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|c:\\users\\aluno15\\desktop\\e-commerce-api-rest\\web-api-rest\\web-api-rest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB1A7F37-A55F-41FA-9757-B8BE3BC37C06}|web-api-rest.csproj|solutionrelative:web-api-rest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,23 +35,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EcommerceSystemDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\Data\\EcommerceSystemDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\EcommerceSystemDbContext.cs",
+              "ToolTip": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\Data\\EcommerceSystemDbContext.cs",
+              "RelativeToolTip": "Data\\EcommerceSystemDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:01:59.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "web-api-rest",
+              "DocumentMoniker": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\web-api-rest.csproj",
+              "RelativeDocumentMoniker": "web-api-rest.csproj",
+              "ToolTip": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\web-api-rest.csproj",
+              "RelativeToolTip": "web-api-rest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T13:50:17.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T17:54:50.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductModel.cs",
-              "DocumentMoniker": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\Models\\ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\Models\\ProductModel.cs",
               "RelativeDocumentMoniker": "Models\\ProductModel.cs",
-              "ToolTip": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\Models\\ProductModel.cs",
               "RelativeToolTip": "Models\\ProductModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,11 +86,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAQwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

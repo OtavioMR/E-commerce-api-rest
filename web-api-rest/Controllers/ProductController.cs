@@ -40,5 +40,22 @@ namespace web_api_rest.Controllers
             return Ok(product);
         }
 
+        // Trecho do endpoint que atualiza o produto
+        [HttpPut("{Id}")]
+        public async Task<ActionResult<List<ProductModel>>> UpdateProduct([FromBody] ProductModel productModel, int Id)
+        {
+            productModel.Id = Id;
+            ProductModel product = await _productRepository.UpdateProduct(productModel, Id);
+            return Ok(product);
+        }
+
+        // Trecho do endpoint que deleta o produto
+        [HttpDelete("{Id}")]
+        public async Task<ActionResult<List<ProductModel>>> DeleteProduct (int Id)
+        {
+            bool deleted = await _productRepository.DeleteProduct(Id);
+            return Ok(deleted);
+        }
+
     }
 }
