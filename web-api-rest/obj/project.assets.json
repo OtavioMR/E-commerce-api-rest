@@ -2435,19 +2435,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Aluno15\\.nuget\\packages\\": {}
+    "C:\\Users\\Otavio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\web-api-rest.csproj",
+      "projectUniqueName": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\web-api-rest.csproj",
       "projectName": "web-api-rest",
-      "projectPath": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\web-api-rest.csproj",
-      "packagesPath": "C:\\Users\\Aluno15\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno15\\Desktop\\E-commerce-api-rest\\web-api-rest\\obj\\",
+      "projectPath": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\web-api-rest.csproj",
+      "packagesPath": "C:\\Users\\Otavio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Otavio\\Desktop\\E-commerce-api-rest\\web-api-rest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Aluno15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Otavio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
